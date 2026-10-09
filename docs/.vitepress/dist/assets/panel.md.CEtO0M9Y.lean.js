@@ -1,0 +1,1 @@
+import{G as e,W as t,n,rt as r}from"./chunks/framework.BVvt2_kn.js";var i=JSON.parse(`{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"panel.md","filePath":"panel.md"}`),a={name:`panel.md`};function o(n,i,a,o,s,c){return r(),t(`div`,null,[...i[0]||=[e("",7)]])}var s=n(a,[[`render`,o]]);export{i as __pageData,s as default};

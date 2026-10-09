@@ -1,0 +1,1 @@
+import{G as e,W as t,n,rt as r}from"./chunks/framework.BVvt2_kn.js";var i=JSON.parse(`{"title":"嗨! 你好","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}`),a={name:`index.md`};function o(n,i,a,o,s,c){return r(),t(`div`,null,[...i[0]||=[e("",14)]])}var s=n(a,[[`render`,o]]);export{i as __pageData,s as default};
